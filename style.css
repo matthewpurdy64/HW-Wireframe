@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  /* MY CSS GOES HERE*/
+  
+  body {
+      font-family: Arial, Helvetica, sans-serif;
+      width: 960px;
+      font-size: 18px;
+      line-height: 32px;
+      color: #777;
+      background-color: #777;
+      margin-left: 100px;
+      margin-right: 150px;      
+  }
+
+  .container {
+      width: 1024px;
+      margin: 0 auto;
+  }
+
+  header {
+      background: #ebebeb;
+      padding: 20px;
+      margin-bottom: 10px;
+      color: #777777;
+  }
+
+  nav {
+      background: #ebebeb;
+      padding: 20px;
+      margin-bottom: 20px;
+      color: #777777;
+  }
+
+  #section1 {
+      width: 495px;
+      height: 300px;
+      background: #ebebeb;
+      padding-top: 30px;
+      float: left;
+      margin-bottom: 20px;
+      color: #777;
+  }
+  
+  #article1 {
+      width: 475px;
+      height: 220px;
+      color: #ebebeb;
+      background: #777;
+      margin: 10px 10px 10px 10px;
+      padding-top: 10px;
+  }
+  
+ #h123 {
+      width: 440px;
+      height: 75px;
+      color: #777;
+      background: #ebebeb;
+      margin: 10px 30px 10px 15px;
+      padding-top: 20px;
+      font-weight: bold;
+      font-size: 18px;
+  }
+  
+  #p1 {
+      width: 440px;
+      height: 75px;
+      color: #777;
+      background: #ebebeb;
+      margin: 10px 30px 10px 15px;
+      padding-top: 10px;
+  }
+  
+  #aside1 {
+      width: 440px;
+      height: 300px;
+      color: #777;
+      background: #ebebeb;
+      padding-top: 30px;
+      float: right;
+  }
+
+  #footer1{
+      clear: both;
+      background: #ebebeb;
+      padding: 20px;
+  }
